@@ -1,1 +1,2 @@
-alert("kys");
+alert("kys")
+
